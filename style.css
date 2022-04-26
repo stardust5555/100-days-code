@@ -1,0 +1,128 @@
+/*This is my CSS style sheet for the koala challenge*/
+
+.face {
+    position:absolute;
+    z-index: 2; 
+    width: 500px;
+    height: 500px;
+    background: lightgray;
+    border-radius: 50%;
+    margin: 550px;
+  }
+
+.ear-left {
+    position:absolute;
+    z-index: 1;
+    width: 300px;
+    height: 300px;
+    background: gray;
+    border: 30px solid lightgrey;
+    border-radius: 50%;
+    margin: 550px;
+    margin-left: 425px;
+  }
+
+.ear-right {
+    position:absolute;
+    z-index: 1;
+    width: 300px;
+    height: 300px;
+    background: gray;
+    border-radius: 50%;
+    border: 30px solid lightgrey;
+    margin: 550px;
+    margin-left: 825px
+  }
+
+.nose {
+    position:absolute;
+    z-index: 4;
+    display: block;
+    width: 126px;
+    height: 225px;
+    background-color: brown;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    margin: 550px;
+    margin-left: 740px;
+    margin-top: 740px;
+  }
+
+.eye-left {
+    position:absolute;
+    z-index: 3;
+    width: 50px;
+    height: 50px;
+    background: black;
+    border-radius: 50%;
+    border: 40px solid white;
+    margin: 675px;
+    margin-left: 675px;
+  }
+.eye-right {
+    position:absolute;
+    z-index: 3;
+    width: 50px;
+    height: 50px;
+    background: black;
+    border-radius: 50%;
+    border: 40px solid white;
+    margin: 675px;
+    margin-left: 800px;
+}
+.hair-left {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid lightgray;
+  margin: 550px;
+  margin-left: 710px;
+  margin-top: 500px;
+  margin-bottom: 820px;
+}
+.hair-right {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid lightgray;
+  margin: 550px;
+  margin-left: 790px;
+  margin-top: 510px;
+  margin-bottom: 760px;
+}
+body {
+  background-color: lightblue;
+}
+
+/*Animations*/
+/*Make the background turn lightblue to greenyellow to yellow*/
+@keyframes example {
+    0% {background-color: lightblue;}
+    50% {background-color: greenyellow;}
+    100% {background-color: yellow;}
+}
+body {                                      /*This is the element we want to animate*/
+    background-color: yellow;               /*Ensures background color stays yellow*/
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+/*Make the koala nose turn multicolored whilst mocing it in a square*/
+@keyframes example {
+    0%   {background-color:brown; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:brown; left:0px; top:0px;}
+  }
+  
+  /* The element to apply the animation to */
+.nose {
+    animation-name: example;
+    animation-duration: 6s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+}
