@@ -15,6 +15,13 @@
 
 
 ### Day 3: April 27, 2022
+**Today's Progress:** Got a second pair of eyes on my koala code and we managed to fix my error! Didn't write any more code today. Just spent time going through my notes from today's bootcamp. 
+
+**Thoughts:** Really happy about the koala code. I'm a bit annoyed that I didn't get enough time to practise some Javascript after going through my notes, but hopefully will have some more time tomorrow. 
+
+### Day 4: April 28, 2022
+
+
 
 
 
