@@ -99,19 +99,19 @@ body {
 
 /*Animations*/
 /*Make the background turn lightblue to greenyellow to yellow*/
-@keyframes example {
+@keyframes exampleBody {
     0% {background-color: lightblue;}
     50% {background-color: greenyellow;}
     100% {background-color: yellow;}
 }
 body {                                      /*This is the element we want to animate*/
     background-color: yellow;               /*Ensures background color stays yellow*/
-    animation-name: example;
+    animation-name: exampleBody;
     animation-duration: 4s;
 }
 
 /*Make the koala nose turn multicolored whilst mocing it in a square*/
-@keyframes example {
+@keyframes exampleNose {
     0%   {background-color:brown; left:0px; top:0px;}
     25%  {background-color:yellow; left:200px; top:0px;}
     50%  {background-color:blue; left:200px; top:200px;}
@@ -121,7 +121,7 @@ body {                                      /*This is the element we want to ani
   
   /* The element to apply the animation to */
 .nose {
-    animation-name: example;
+    animation-name: exampleNose;
     animation-duration: 6s;
     animation-delay: 2s;
     animation-iteration-count: infinite;
