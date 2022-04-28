@@ -20,7 +20,9 @@
 **Thoughts:** Really happy about the koala code. I'm a bit annoyed that I didn't get enough time to practise some Javascript after going through my notes, but hopefully will have some more time tomorrow. 
 
 ### Day 4: April 28, 2022
+**Today's Progress:** Just been messing around with functions and objects.
 
+**Thoughts:** I feel better about objects, dot notation and bracket notation. But I'm still struggling with functions.
 
 
 
