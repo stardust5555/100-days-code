@@ -30,14 +30,14 @@
 **Thoughts:** I feel better A LOT better about Javascript and functions in general. Some of it is still swimmming around my head, but the hackathon experience was really good for me. It was also really good for me to be driving the code. Also, I got to know my teammates better -  that was the best part. We really started to get in the groove on Friday, it's a shame we won't be in a team next week. At the same time, I think I've learnt a lot about how to work in a team and look forward to meeting my new programming pair. 
 
 ### Day 6: April 30, 2022
-**Today's Progress:** 
+**Today's Progress:** Started going through the old workshops, but was mainly just tidying up/going over my notes, because I'm finding that I have to look things up quite often. 
 
 **Thoughts:** 
 
 ### Day 7: May 1, 2022
-**Today's Progress:** 
+**Today's Progress:** Started my work on Codewars today. Got really stuck on one of the problems. I've tried so many different variations of code and I still can't figure it out. 
 
-**Thoughts:** 
+**Thoughts:** It's getting pretty late, so I'm going to stop coding and see if I can tackle the problem tomorrow morning. Maybe I need to consolidate my knowledge of Javascript a bit better before I try and tackle the problem again. 
 
 
 
