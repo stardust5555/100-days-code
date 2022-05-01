@@ -24,6 +24,20 @@
 
 **Thoughts:** I feel better about objects, dot notation and bracket notation. But I'm still struggling with functions.
 
+### Day 5: April 29, 2022
+**Today's Progress:** Spent most of the day doing the hackathon for the rock, paper and scissors game. 
+
+**Thoughts:** I feel better A LOT better about Javascript and functions in general. Some of it is still swimmming around my head, but the hackathon experience was really good for me. It was also really good for me to be driving the code. Also, I got to know my teammates better -  that was the best part. We really started to get in the groove on Friday, it's a shame we won't be in a team next week. At the same time, I think I've learnt a lot about how to work in a team and look forward to meeting my new programming pair. 
+
+### Day 6: April 30, 2022
+**Today's Progress:** 
+
+**Thoughts:** 
+
+### Day 7: May 1, 2022
+**Today's Progress:** 
+
+**Thoughts:** 
 
 
 
