@@ -39,11 +39,16 @@
 
 **Thoughts:** It's getting pretty late, so I'm going to stop coding and see if I can tackle the problem tomorrow morning. Maybe I need to consolidate my knowledge of Javascript a bit better before I try and tackle the problem again. 
 
-### Day 7: May 2, 2022
+### Day 8: May 2, 2022
 **Today's Progress:** Still stuck on that CodeWars problem! I think I need to ask for help - or ask a fellow bootcamper. I just carried on with the other Codewars problems and made more notes. 
 
 **Thoughts:** I'm a bit worried that I'm not good at logic andd functions. Other people seem to be catching on a lot faster than me. I'm hoping that it will become easier with practise. 
 
 **Example link to work:** [Example App](http://www.example.com)
 
+### Day 9: May 2, 2022
+**Today's Progress:** Learnt about DOMs. Tried to complete the DOM workshop - and I couldn't get anywhere. 
 
+**Thoughts:** I really struggled today. I don't understand this at all. And I just feel too tired to carry on working. I don't know how tomorrow will go given that I don't understand what went on today. 
+
+**Example link to work:** [Example App](http://www.example.com)
