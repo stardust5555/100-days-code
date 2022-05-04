@@ -51,4 +51,9 @@
 
 **Thoughts:** I really struggled today. I don't understand this at all. And I just feel too tired to carry on working. I don't know how tomorrow will go given that I don't understand what went on today. 
 
+### Day 10: May 3, 2022
+**Today's Progress:** Learnt about APIs and fetch function. Worked through the fetch workshop from scratch after 5pm.
+
+**Thoughts:** I'm still confused. But I do feel a little better today. When I'm with my group I feel like I'm drowning, but when I have time at the end of he day t ogo over things we've learnt at my own pace I feel better. Originally, I was trying to finish off the tasks in the workshop but then I'd keep getting really stuck. I've found starting the workshops from scratch by myself has actually helped me figure out what's going on. The thing I'm worried about is that I find it easier working by myself than with my group becasue I can go at my own pace. But obviously in industry you need to work with other people all of the time, so I'm not sure how I should tackle that probelm.  
+
 **Example link to work:** [Example App](http://www.example.com)
