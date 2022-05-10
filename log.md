@@ -94,7 +94,7 @@
 
 
 ### Day 15: May 10, 2022
-**Today's Progress:** Learnt about UX design and UI. Spent most of the day discussing things with my partner rather than coding. Although at the beginning of the day we did a little bit of Codewars and towards the end of the day we touched on CSS variables, in particular ":root".  
+**Today's Progress:** Learnt about UX design and UI. Spent most of the day discussing things with my partner rather than coding. Although at the beginning of the day we did a little bit of Codewars and towards the end of the day we touched on CSS variables, in particular ":root". Had my mentor meeting - we went over Task 3 of the recap workshop (fetching images from the cat API).
 
 **Thoughts:** Today was another relaxed day. I enjoyed learning about CSS variables the most. My partner and I didn't manage to finish the workshop in class so I finished it later on in the day. I learnt about the toggle function in Javascript which is really useful. The hardest part of the day was probabaly Codewars. I kept overcomplcating the problem. Going forward I'd like to spend some time playing with Codewars.
 Also, I managed to finish Task 3 of the recap tasks! I had my mentor meeting today and he cleared up where I was going wrong. It was really useful to have a one-on-one discussion. I was struggling with the difference between blob and JSON, but my mentor really broke it down for me and it was a really productive hour.
