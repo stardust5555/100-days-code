@@ -101,4 +101,9 @@ Also, I managed to finish Task 3 of the recap tasks! I had my mentor meeting tod
 
 
 
+### Day 16: May 11, 2022
+**Today's Progress:** Spent the day learning about UI. Including resources such as miro and Figma. However, we didn't get very far with Figma - especially compared to other people in the bootcamp.
+
+**Thoughts:** I really love miro. It's so clean and easy to use. However, I found Figma really difficult to navigate. Going forward I definitely want to spend time practising and messing around with Figma so I can get used to it and use it quickly. I think Figma is such a useful tool and I really like design so I definitely want to start creating a portfolio.
+
 **Example link to work:** [Example App](http://www.example.com)
