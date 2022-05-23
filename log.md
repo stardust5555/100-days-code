@@ -106,4 +106,55 @@ Also, I managed to finish Task 3 of the recap tasks! I had my mentor meeting tod
 
 **Thoughts:** I really love miro. It's so clean and easy to use. However, I found Figma really difficult to navigate. Going forward I definitely want to spend time practising and messing around with Figma so I can get used to it and use it quickly. I think Figma is such a useful tool and I really like design so I definitely want to start creating a portfolio.
 
-**Example link to work:** [Example App](http://www.example.com)
+
+### Day 17: May 12, 2022
+**Today's Progress:** Worked with another team. Practised our Figma and Miro skills. We were given a brief to design a few pages of an app similar to Google Maps.
+
+**Thoughts:** I found that today really taught me how different and sometimes difficult it is to work with Figma collaboratively. I struggled with everyone working on the same thing at the same time. Definitely something I want to get better at. I think today has also taught me the importance of a plan, especially when working with other people. As sometimes I lost track of what we were doing and I know other pople in our group felt the same way.
+
+
+### Day 18: May 13, 2022
+**Today's Progress:** Hacakthon Friday! Mubeen and I created a website designed finding piano tutors and signing up to be a piano tutor. We brought all of our skills together, using Jamboard, Hubspot, Miro and Figma. 
+
+**Thoughts:** I actually started on the Hackathon project yesterday night before, and I think that put us in really good stead. I know that it made my partner feel a lot better going into the day. Today really consolidated my knowledge of Miro an Figma. I feel a lot better using Figma now, and I definitely want to keep using Figma to desgin my own projects. It feels a lot less daunting. 
+
+
+
+### Day 19: May 14, 2022
+**Today's Progress:** Started the weekend recap task - design a website all about me.
+
+**Thoughts:** One of the hardest things was thinking about what I wanted to say about me, and what I wanted the design to look like, rather than actually creating it in Figma. Jamboard has been a really great tool today as well as HUbspot, becasue they really helped me step back and think about the UX side of the things, not just UI and how the website will look.
+
+### Day 20: May 15, 2022
+**Today's Progress:** Finally finished designing my website!
+
+**Thoughts:** This task took me really long time. But I really enjoyed every second of it. I really like FIgma now and I really like designing websites. I think it's going to be really difficult when it comes to actually coding it, but I really need the practise and I think it will be good for me.
+
+### Day 21: May 16, 2022
+**Today's Progress:** Introduction to Node.js. And the realtionship of client and server. 
+
+**Thoughts:** Today was intense. I really need to take time to figure out what's going on.
+
+### Day 22: May 17, 2022
+**Today's Progress:** Learnt about express and how to import and export different files.
+
+**Thoughts:** I feel like I don't know what's going on. I don't know how people are catching on so quickly. My mentor meeting today was actually really helpful. We spoke a little bit about what express is used for. I do want to go into next week's meeting and be able to articulate my questions better, so I can get the full benefit of my mentor's help.
+
+### Day 23: May 18, 2022
+**Today's Progress:** Carried on with our back-end workshop. Started looking a bit more into routers. 
+
+**Thoughts:** All I can say is, is that I'm so grateful for my partner!
+
+### Day 24: May 19, 2022
+**Today's Progress:** Carried on with our back-end workshop. Learnt about CRUD.
+
+**Thoughts:** I feel a little better about today. But I still get really anxious about the thought of being picked on. I'm still struggling with the code. But I feel a lot better about the concept. I think Liz's diagram about how the server, client, request, response relationship works really helped me today.
+
+### Day 25: May 20, 2022
+**Today's Progress:** Hackathon Friday.
+
+**Thoughts:** I think the Hackathon today really helped me. I feel a lot better about get and post requests. But i need to sit down and really take the ime to go through put and delete requests at the weekend. My partner was really helpful in terms of breaking things down today. I also think the hackathon really helped me bond with my partner as well.
+
+
+
+
