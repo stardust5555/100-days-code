@@ -155,6 +155,19 @@ Also, I managed to finish Task 3 of the recap tasks! I had my mentor meeting tod
 
 **Thoughts:** I think the Hackathon today really helped me. I feel a lot better about get and post requests. But i need to sit down and really take the ime to go through put and delete requests at the weekend. My partner was really helpful in terms of breaking things down today. I also think the hackathon really helped me bond with my partner as well.
 
+### Day 26: May 21, 2022
+**Today's Progress:** Recap tasks - back end - get and post request.
 
+**Thoughts:** I'm taking it really slow today. I really want to understand as much as I can. I feel a lot better about get and post requests now. I think one of the things that was annoying me, was that I was trying to to understand everything - the concept, every bit of code, the syntax. But I think I need to learn to be satisfied with not knowing everything. Because at the end of the day I made a get request and a post request with a bit of help from my partner and google and hopefully with more practise I'll be able to do it all by myself. But I don't necessarily need to understand everything to get there.
+
+### Day 27: May 22, 2022
+**Today's Progress:** Recap tasks - back end - delete and put requests.
+
+**Thoughts:** I finished! It took me a long time because I didn't understand what was going on during the week, but I got there. I'm not totally sure that my delete request is right, but I might ask my mentor about that on Tuesday. The only thing I'm really struggling with is converting Common JS is ESM and vice versa. Really struggling with that.
+
+### Day 28: May 23, 2022
+**Today's Progress:** Guest speaker (Kyle Simpson). Learnt the basics of SQL. Learnt about SELECT, WHERE, INSERT INTO and UPDATE. As well as SQL syntax e.g. you use single quotation marks for a string, not double. 
+
+**Thoughts:** Today was nice and manageable. I was worried that it was going to be intense, but it a good day. 
 
 
