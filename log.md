@@ -171,3 +171,9 @@ Also, I managed to finish Task 3 of the recap tasks! I had my mentor meeting tod
 **Thoughts:** Today was nice and manageable. I was worried that it was going to be intense, but it a good day. 
 
 
+
+### Day 29: May 24, 2022
+**Today's Progress:** More SQL. Learnt about DELETE, ORDER BY and practise my WHERE statments. Used SQLBolt and https://pgexercises.com/questions/joins/self.html.
+
+**Thoughts:** Today was a goo day again. I think I should keep practising pgexercises because it taught me a lot of new stuff today.
+
