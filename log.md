@@ -173,7 +173,7 @@ Also, I managed to finish Task 3 of the recap tasks! I had my mentor meeting tod
 
 
 ### Day 29: May 24, 2022
-**Today's Progress:** More SQL. Learnt about DELETE, ORDER BY and practise my WHERE statments. Used SQLBolt and https://pgexercises.com/questions/joins/self.html.
+**Today's Progress:** More SQL. Learnt about DELETE, ORDER BY and practise my WHERE statments. Used SQLBolt and https://pgexercises.com/questions/joins/self.html. Created a repo for a weather_app.
 
-**Thoughts:** Today was a goo day again. I think I should keep practising pgexercises because it taught me a lot of new stuff today.
+**Thoughts:** Today was a goo day again. I think I should keep practising pgexercises because it taught me a lot of new stuff today. Honestly, I really struggled with creating a repo - I thought it was going to be easy. I'm glad that I'm having these struggles in week 5 and not later down the line.
 
