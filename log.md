@@ -177,3 +177,11 @@ Also, I managed to finish Task 3 of the recap tasks! I had my mentor meeting tod
 
 **Thoughts:** Today was a goo day again. I think I should keep practising pgexercises because it taught me a lot of new stuff today. Honestly, I really struggled with creating a repo - I thought it was going to be easy. I'm glad that I'm having these struggles in week 5 and not later down the line.
 
+
+# INTERMISSION
+During the bootcamp things got a little hectic. 100 days of code became too stressuful to maintain whilst staying afloat with the intensive bootcamp. So I made the decision to leave this log for the time being. However, now I've finished the bootcamp, I want this another go. I'm exicted to keep a record of the new things I'm going to learn. I'm going to put less pressure on myself this time. I won't be coding on the weekends as I want to try and have a better work/life balance this time around. Hopefully I'll get to 100 this time around! 
+
+### Day 1: August 30th, 2022
+**Today's Progress:** Updated my Github Profile. Started learning Python! Applied for a backend job.
+
+**Thoughts:** I created a repo called "Learning-Python". I haven't touched Python since uni. And at uni I only learnt the very basics (e.g. what an array is), so it essentially feels like I'm starting from scratch. I'm very excited to get stuck back in. Hopefully I'll be able to create my own project using Python soon. :)
