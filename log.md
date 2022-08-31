@@ -185,3 +185,8 @@ During the bootcamp things got a little hectic. 100 days of code became too stre
 **Today's Progress:** Updated my Github Profile. Started learning Python! Applied for a backend job.
 
 **Thoughts:** I created a repo called "Learning-Python". I haven't touched Python since uni. And at uni I only learnt the very basics (e.g. what an array is), so it essentially feels like I'm starting from scratch. I'm very excited to get stuck back in. Hopefully I'll be able to create my own project using Python soon. :)
+
+### Day 2: August 31th, 2022
+**Today's Progress:** Carried on learning the basics of Python. Edited some of the readmes in my Github Profile to start getting ready for when employers have a snoop. 
+
+**Thoughts:** I've just been chugging along with Python today. I've made some decent headway. The concepts are almost exactly the same as Javascript, I've just got to get my head around the syntax which is easily Googleable. I'm excited to finish my Youtube Python tutorial and get stuck into creating a Python project. I'm about a third of the way through the tutorial and it's going well. 
