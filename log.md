@@ -190,3 +190,8 @@ During the bootcamp things got a little hectic. 100 days of code became too stre
 **Today's Progress:** Carried on learning the basics of Python. Edited some of the readmes in my Github Profile to start getting ready for when employers have a snoop. 
 
 **Thoughts:** I've just been chugging along with Python today. I've made some decent headway. The concepts are almost exactly the same as Javascript, I've just got to get my head around the syntax which is easily Googleable. I'm excited to finish my Youtube Python tutorial and get stuck into creating a Python project. I'm about a third of the way through the tutorial and it's going well. 
+
+### Day 3: September 1st, 2022
+**Today's Progress:** Started working on my Spanish-vocab-Game again! I've been working on Figma to get my high fidelity prototypes ready and I've started styling the CSS in my react repo.  
+
+**Thoughts:** I really enjoy design, but I don't feel confident with CSS. Working on this project has definitely helped me sharpen my skills. Next week I'm going to have a look on Youtube for some CSS tutorials. I have a hackathon tomorrow, I have a feeling it's going to be backend focussed. With that in mind, I'm quite nervous as I haven't done SQL is a while. Although, it will be great experience and I do enjoy databasing so I'm sure it will be good fun. :) 
