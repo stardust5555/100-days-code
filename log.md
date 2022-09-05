@@ -201,3 +201,8 @@ During the bootcamp things got a little hectic. 100 days of code became too stre
 **Today's Progress:** Attended the Many Pets hackathon as part of the School of code!  
 
 **Thoughts:** Today was a long, but fun day! I worked with an amazing group of people in the hackathon today. We used Heroku and Express js to create the backend for a quotation service for customers at Many Pets. I was really nervous about going because the brief looked complicated. But luckily we worked together to break down the brief into smaller chunks and we got really far.
+
+### Day 5: September 3rd, 2022
+**Today's Progress:** Created a Django Project with Python 
+
+**Thoughts:** It was a steep learning curve today. Django is completely new to me and creating a Django project took a little long than I initially anticipated. I've read A LOT of documentation today. TOday, I've essentially created a Django project, learnt about virtual environments, learnt how to push up a Django project to Github without pushing up a virtual environment and created routes to the about page and the homepage. It's been an eventful day!
