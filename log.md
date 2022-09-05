@@ -195,3 +195,9 @@ During the bootcamp things got a little hectic. 100 days of code became too stre
 **Today's Progress:** Started working on my Spanish-vocab-Game again! I've been working on Figma to get my high fidelity prototypes ready and I've started styling the CSS in my react repo.  
 
 **Thoughts:** I really enjoy design, but I don't feel confident with CSS. Working on this project has definitely helped me sharpen my skills. Next week I'm going to have a look on Youtube for some CSS tutorials. I have a hackathon tomorrow, I have a feeling it's going to be backend focussed. With that in mind, I'm quite nervous as I haven't done SQL is a while. Although, it will be great experience and I do enjoy databasing so I'm sure it will be good fun. :) 
+
+
+### Day 4: September 2nd, 2022
+**Today's Progress:** Attended the Many Pets hackathon as part of the School of code!  
+
+**Thoughts:** Today was a long, but fun day! I worked with an amazing group of people in the hackathon today. We used Heroku and Express js to create the backend for a quotation service for customers at Many Pets. I was really nervous about going because the brief looked complicated. But luckily we worked together to break down the brief into smaller chunks and we got really far.
